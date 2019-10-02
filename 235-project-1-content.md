@@ -2,7 +2,7 @@
 
 ## I.High Concept
 
-  Insert One-Liner Here
+  You have one goal: shoot things and hope you don't die in the process.
 
 ## II. Genre
   
@@ -15,7 +15,8 @@
      
 ## IV. Story
 
-    Wait there is a story?
+    The story is very simple. You have a gun and so do your enemies. As this is a life or death situation, you want to take them
+    out before they do the same to you.
      
 ## V. Esthetics
 
@@ -26,30 +27,26 @@
     
 ## VI. Gameplay
   
-    ### Mechanics:
+    Mechanics:
         The player will use the mouse to navigate their character around the screen, which will be constantly shooting bullets at 
         a set time interval. Their goal is to dodge incoming bullets while taking out the enemies with their attacks. In addition 
         to dodging bullets, the user can pick up collectible with small buffs such as shooting multiple bullets at once or a 
         short period of invincibility.
         
-    #### Controls:
+    Controls:
         Mouse movement: The player's character will follow the mouse on screen.
         
-    ### Onboarding:
+    Onboarding:
         The instructions on how to play the game will be displayed on the main menu screen before the game begins. This should ensure
         that the player is well informed on the controls and mechanics of the game before beginning.
     
-    ### Player Learning:
+    Player Learning:
         The key mechanics that the player will have to learn to beat the game revolve around understanding the enemies attacks and the 
         types of powerups available. The more they play, the more information they gain and the higher their success rate.
     
 ## VII. Screenshots
 
     I also have to draw bleh.
-    
-## VIII. Other
-
-    I have to somehow add even more bleh.
     
 ## IX. About the Developer
 
