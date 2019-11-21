@@ -2,40 +2,37 @@
 
 ## I.High Concept
 
-  You have one goal: shoot things and hope you don't die in the process.
+  It's a dress up game with a slight twist. What more do you need? Unleash your inner fashionista!
 
 ## II. Genre
   
-    The game will be a simple shoot 'em up in which your main goal is to shoot the enemies before they shoot you.
+    The game will be a dress up simulation.
 
 ## III. Platform
 
     This game will first be developed specifically for desktops, and if development goes well and there is a 
-    surplus of time, I might focus on a mobile version.
+    surplus of time, we might focus on a mobile version.
      
 ## IV. Story
 
-    The story is very simple. You have a gun and so do your enemies. As this is a life or death situation, you 
-    want to take them out before they do the same to you.
+    The story is very simple. Chloe is about to leave to venture into the outside world and needs to get dressed. 
+    But like all of her mornings, she is super indecisive and needs your help!
      
 ## V. Esthetics
 
-    The graphics will revolve around a simple cartoonish style. The player and enemies will likely end up being 
-    vector images with a simplistic style. The sound will also be simplistic and will be focused around the 
-    scoring system so that the player is alerted when reaching a certain score. If time permits, I might add 
-    more simple sound effects to the enemies to alert the player for certain events in the game such as an 
-    enemies death or the player being hit. 
+    The graphics will revolve around a simple cartoonish style. Our stylistic inspiration comes from Doki Doki 
+    Literature Club. The sound will also be simple and will mostly be a simple loop of calm music playing in the
+    background with a few added sound effects when clothes are selected.
     
 ## VI. Gameplay
   
     Mechanics:
-        The player will use the mouse to navigate their character around the screen, which will be constantly 
-        shooting bullets at a set time interval. Their goal is to dodge incoming bullets while taking out the 
-        enemies with their attacks. In addition to dodging bullets, the user can pick up collectible with small 
-        buffs such as shooting multiple bullets at once or a short period of invincibility.
+        The player will use the mouse to select from the clothing options provided by dragging and dropping them onto 
+        Chloe. When finished the player will press a finish button and will be presented with an image of their 
+        final product
         
     Controls:
-        Mouse movement: The player's character will follow the mouse on screen.
+        Mouse Drag and Drop: The player will drag and drop clothing items onto Chloe
         
     Onboarding:
         The instructions on how to play the game will be displayed on the main menu screen before the game 
@@ -43,9 +40,8 @@
         before beginning.
     
     Player Learning:
-        The key mechanics that the player will have to learn to beat the game revolve around understanding the 
-        enemies attacks and the types of powerups available. The more they play, the more information they gain 
-        and the higher their success rate.
+        There is not much learning behavior in this game. The instructions present most of the necessary controls and 
+        any information needed to play the game.
     
 ## VII. Screenshots
 
